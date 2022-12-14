@@ -1,0 +1,50 @@
+body{text-align: right;}
+
+.hc-nav-trigger{right: auto !important;left: 10px;}
+
+.header-right > .d-flex > .mr-4{margin-right: 0 !important;margin-left: 15px !important;}
+
+.head-search .dropdown-toggle::after {left: 8px;right: auto;}
+
+.list-card .list-card-body p.text-gray{padding-left: 0px;padding-right: 16px;}
+.list-card .list-card-body p.text-gray span.fa.fa-map-marker{left: auto; right: 0;}
+.most_sale .list-card .list-card-body p.text-gray{padding-left: 0px;padding-right: 20px;}
+.most_sale .list-card .list-card-body p.text-gray .fa.fa-map-marker{left: auto; right: 0;}
+
+
+.hc-offcanvas-nav.hc-nav-1.nav-position-left .nav-container {transform: translate3d(0px, 0, -280px) !important;}
+.hc-offcanvas-nav.nav-open[class*="hc-nav-"] div.nav-container {transform: translate3d(0, 0, 0) !important;}
+.hc-offcanvas-nav.nav-position-left .nav-container{left: auto; right: 0;}
+
+.list-card .member-plan{right: 8px;left: auto;}
+.transactions-list .media-body .app-off-btn{right: auto;left: 0;}
+
+.vendor-detail-left h4.h6::after, .sidebar-header h3.h6::after{left: auto; right: 0;}
+.delevery-partner .tip-box .custom-control.custom-radio{margin-left: 0;}
+
+
+.vendor-detail-right .btm-total p .float-right.text-dark{float: left !important;}
+
+.vendor-detail-right .btm-total p.float-right{float: left !important;}
+
+.count-number-input{width: 14px;}
+.checkout-left-inner .addres-innerbox p{text-align: right;}
+.checkout-payment-options .custom-control{margin-left: 0rem;margin-right: 1rem;}
+
+.checkout-left-inner{padding-left: 0px;padding-right: 75px;}
+
+.checkout-left-box.siddhi-cart-item::before{right: -42px;left: auto;}
+.checkout-left-box.siddhi-cart-item::after,.checkout-left-box.accordion::after{left: auto;right: -66px;}
+.float-right {
+  float: left !important;
+}
+
+[dir='rtl'] .slick-slide
+{
+    float: left;
+}
+.search .input-group-append, .search .input-group-prepend{order: 1;}
+.search .input-group > .form-control{order: 0;}
+.border_search{border-radius: 50px 0px 0px 50px !important;}
+.search .border-right-0.form-control{border-right:1px solid #ced4da !important;}
+/*.banner-img img{transform: rotate(180deg);}*/
